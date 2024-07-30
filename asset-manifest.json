@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Cocktail-website-react-redux/static/css/main.31d6cfe0.css",
-    "main.js": "/Cocktail-website-react-redux/static/js/main.14c890ce.js",
+    "main.js": "/Cocktail-website-react-redux/static/js/main.c0b250b5.js",
     "static/js/787.a0503be5.chunk.js": "/Cocktail-website-react-redux/static/js/787.a0503be5.chunk.js",
     "index.html": "/Cocktail-website-react-redux/index.html",
-    "main.14c890ce.js.map": "/Cocktail-website-react-redux/static/js/main.14c890ce.js.map",
+    "main.c0b250b5.js.map": "/Cocktail-website-react-redux/static/js/main.c0b250b5.js.map",
     "787.a0503be5.chunk.js.map": "/Cocktail-website-react-redux/static/js/787.a0503be5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.14c890ce.js"
+    "static/js/main.c0b250b5.js"
   ]
 }
